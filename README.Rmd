@@ -31,10 +31,10 @@ The package with the vignettes can be installed with
 devtools::install_github(repo='Seungha-Um/BART.LSM', build_vignettes = TRUE) 
 ```
 
-and then accessed by running `browseVignettes("BART.LSM")`. Alternatively, vignette is available at [Simulation](https://rpubs.com/sheom0808/981711)
+<!-- and then accessed by running `browseVignettes("BART.LSM")`. Alternatively, vignette is available at [Simulation](https://rpubs.com/sheom0808/981711) -->
 
 
-Alternatively, 
-vignette is available at [Simulation](https://rpubs.com/sheom0808/946709).
+<!-- Alternatively,  -->
+<!-- vignette is available at [Simulation](https://rpubs.com/sheom0808/946709). -->
 
-The vignette illustrates our methods using simulated data, while this repository provides the advice-seeking network real dataset, along with a noisy subset.
+<!-- The vignette illustrates our methods using simulated data, while this repository provides the advice-seeking network real dataset, along with a noisy subset. -->
