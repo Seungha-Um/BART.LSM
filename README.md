@@ -1,4 +1,4 @@
-# Particle MCMC for agent-based SIS model
+# BART\_LSM model to estimate the average causal peer influence.
 
 This repository contains code to implement the methodology described in
 the paper “’A Bayesian Approach to Estimate Causal Peer Influence
@@ -22,13 +22,12 @@ The package with the vignettes can be installed with
     devtools::install_github(repo='Seungha-Um/BART.LSM', build_vignettes = TRUE) 
 
 and then accessed by running `browseVignettes("BART.LSM")`.
-Alternatively, vignettes are available at
+Alternatively, vignette is available at
 [Simulation](https://rpubs.com/sheom0808/981711)
 
-Alternatively, vignettes are available at
-[Simulation](https://rpubs.com/sheom0808/946709) and [real
-data](https://rpubs.com/sheom0808/926959).
+Alternatively, vignette is available at
+[Simulation](https://rpubs.com/sheom0808/946709).
 
-One of the vignettes replicates our analysis of the advice-seeking
-network dataset, including a noisy subset, while the other demonstrates
-our methods using simulated data.
+The vignette illustrates our methods using simulated data, while this
+repository provides the advice-seeking network real dataset, along with
+a noisy subset.
