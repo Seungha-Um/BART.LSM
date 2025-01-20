@@ -6,9 +6,9 @@ Accounting for Latent Network Homophil”, by Um, Sweet and Adhikari
 (2025)
 
 This package uses the primary functions from
-[`SoftBART`](https://github.com/theodds/SoftBART) and the primary
-functions from [`HLSM`](https://github.com/cran/HLSM) to incorporate the
-SoftBART model and HLSM model as components.
+[`SoftBART`](https://github.com/theodds/SoftBART) and
+[`HLSM`](https://github.com/cran/HLSM) to incorporate the SoftBART model
+and HLSM model as components.
 
 # Installation
 

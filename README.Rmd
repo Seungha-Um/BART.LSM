@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This repository contains code to implement the methodology described in the paper "’A Bayesian Approach to Estimate Causal Peer Influence Accounting for Latent Network Homophil", by Um, Sweet and Adhikari (2025)
 
-This package uses the primary functions from [`SoftBART`](https://github.com/theodds/SoftBART) and the primary functions from [`HLSM`](https://github.com/cran/HLSM) to incorporate the SoftBART model and HLSM model as components.
+This package uses the primary functions from [`SoftBART`](https://github.com/theodds/SoftBART) and  [`HLSM`](https://github.com/cran/HLSM) to incorporate the SoftBART model and HLSM model as components.
 
 # Installation
 
