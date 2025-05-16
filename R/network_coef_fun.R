@@ -10,7 +10,6 @@ library(ggpubr)
 library(invgamma)
 library(fastDummies)
 
-source("~/quantile_normalize.R")
 
 expit <- function(x) (1/(1 + exp(-x)))
 '%<-%' <- zeallot::'%<-%'

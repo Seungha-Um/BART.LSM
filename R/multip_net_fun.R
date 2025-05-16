@@ -13,7 +13,6 @@ library(ggplot2)
 library(ggpubr)
 library(tergm)
 library(fastDummies)
-source("~/quantile_normalize.R")
 
 options(dplyr.summarise.inform = FALSE)
 '%<-%' <- zeallot::'%<-%'
