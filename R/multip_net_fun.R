@@ -1,6 +1,8 @@
-library(statnet)
+#' @importFrom network network
+#' @importFrom sna gplot
+#' @importFrom ergm ergm
+#' @importFrom reshape2
 library(MASS)
-library(reshape2)
 library(dplyr)
 library(HLSM)
 library(zeallot)

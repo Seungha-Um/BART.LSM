@@ -1,6 +1,4 @@
-library(statnet)
 library(MASS)
-library(reshape2)
 library(dplyr)
 library(HLSM)
 library(zeallot)

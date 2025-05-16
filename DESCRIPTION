@@ -5,6 +5,7 @@ Version: 0.1.0
 Author: Seungha Um
 Maintainer: The package maintainer <sheom0808@gmail.com>
 Description: Implement BART_LSM model to estimate the average causal peer Influence.
+Imports: statnet, ergm, network, sna, reshape2, HLSM, zeallot, MASS, dplyr, SoftBart, gdata, rlist, ggplot2, ggpubr, invgamma, fastDummies
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
